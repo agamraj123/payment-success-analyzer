@@ -44,7 +44,7 @@ src
 
 1 Clone repository
 
-git clone https://github.com/yourusername/payment-success-analyzer.git
+git clone  https://github.com/agamraj123/payment-success-analyzer
 
 2 Install dependencies
 
